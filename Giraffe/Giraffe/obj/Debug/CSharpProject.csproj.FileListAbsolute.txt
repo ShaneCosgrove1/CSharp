@@ -1,0 +1,6 @@
+C:\Users\shane.cosgrove\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.exe.config
+C:\Users\shane.cosgrove\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.exe
+C:\Users\shane.cosgrove\source\repos\Giraffe\Giraffe\bin\Debug\Giraffe.pdb
+C:\Users\shane.cosgrove\source\repos\Giraffe\Giraffe\obj\Debug\CSharpProject.csprojAssemblyReference.cache
+C:\Users\shane.cosgrove\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.exe
+C:\Users\shane.cosgrove\source\repos\Giraffe\Giraffe\obj\Debug\Giraffe.pdb
